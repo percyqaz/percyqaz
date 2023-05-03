@@ -5,21 +5,17 @@
   ![](https://github.com/percyqaz/github-stats/blob/master/generated/overview.svg)
   ![](https://github.com/percyqaz/github-stats/blob/master/generated/languages.svg)
   
-  That's quite a mix of languages, mostly because of [something I did in December](https://github.com/percyqaz/advent-of-code-2022)
 </div>
 
 ----
 
-<div align=center>
-  
-Personal opinion tier list of languages (based on how useful they are to me):
+I work professionally in C#, and to not *completely* lose my sanity, I use a completely different stack (F# and others) for my hobby projects. 
+Unfortunately you probably don't read or write F#, so you'll just have to take my word for it that I do a good job
 
-| Rank | Language | Notes             |
-| :--- | :------: | :---              |
-| #1   | F#       | It's my favourite |
-| #2   | Python       | Useful for executing your code 10 seconds into writing it |
-| #3   | TypeScript       | Still learning, likely to take #2 or even #1 |
-| #4   | C#       | I have my disagreements |
-| #5   | Java       | Like C#, only more so |
+Take a look at some stuff I've done:
 
-</div>
+- ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/Interlude)
+- [Advent of code 2022](https://github.com/percyqaz/advent-of-code-2022)
+- ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
+
+I think any new projects I start from now on will be using Rust due to it being the superior language (I'm part of the cult now)
