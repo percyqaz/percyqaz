@@ -18,4 +18,6 @@ Take a look at some stuff I've done:
 - [Advent of code 2022](https://github.com/percyqaz/advent-of-code-2022)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
-I think any new projects I start from now on will be using Rust due to it being the superior language (I'm part of the cult now)
+I'm eyeing up Rust as my language of choice for future projects due to it getting nearly everything right, but honestly F# 8 delivers on fixing some things that annoyed me the most about it and so F# remains the language I am happiest writing right now
+
+People often ask me for a starting point when it comes to learning programming languages - My honest recommendation is learning [Scala](https://scala-lang.org/) first because it's awesome
