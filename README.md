@@ -15,7 +15,7 @@ Unfortunately you probably don't read or write F#, so you'll just have to take m
 Take a look at some stuff I've done:
 
 - ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/Interlude)
-- [Advent of code 2022](https://github.com/percyqaz/AdventOfCode_2023)
+- [Advent of code 2023](https://github.com/percyqaz/AdventOfCode_2023)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
 I'm eyeing up Rust as my language of choice for future projects due to it getting nearly everything right, but honestly F# 8 delivers on fixing some things that annoyed me the most about it and so F# remains the language I am happiest writing right now
