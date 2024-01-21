@@ -12,9 +12,9 @@
 I work professionally in C#, and to not *completely* lose my sanity, I use a completely different stack (F# and others) for my hobby projects. 
 Unfortunately you probably don't read or write F#, so you'll just have to take my word for it that I do a good job
 
-Take a look at some stuff I've done:
+Take a look at some stuff I maintain:
 
-- ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/Interlude)
+- ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/YAVSRG)
 - [Advent of code 2023](https://github.com/percyqaz/AdventOfCode_2023)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
