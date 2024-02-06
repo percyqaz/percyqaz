@@ -7,7 +7,7 @@
   
 </div>
 
-## 👋 Hello, I am Percyqaz and I enjoy most things to do with code  
+## 👋 Hello, I'm Percyqaz and I enjoy most things code  
 
 Most of my projects are personal tools or solutions I've created for myself  
 I like to release them to the public for the two-way benefits of feedback and bug reports for me while you get useful free software
