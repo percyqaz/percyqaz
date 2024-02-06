@@ -1,12 +1,3 @@
-<h2 align=center> 💡 An unfinished project is just a project you haven't finished yet </h2>
-
-<div align=center>
-
-  ![](https://github.com/percyqaz/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/percyqaz/github-stats/blob/master/generated/languages.svg)
-  
-</div>
-
 ## 👋 Hello, I'm Percyqaz and I enjoy most things code  
 
 Most of my projects are personal tools or solutions I've created for myself  
@@ -23,6 +14,13 @@ Currently solidifying my foundations to ensure I can have a long-lasting success
 - [Advent of code 2023](https://github.com/percyqaz/AdventOfCode_2023)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
+<div align=center>
+
+  ![](https://github.com/percyqaz/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/percyqaz/github-stats/blob/master/generated/languages.svg)
+  
+</div>
+
 ## 🔥 Some of my hot takes
 - Rust is the best programming language hands down, IF
   - You have no time limit
@@ -30,3 +28,5 @@ Currently solidifying my foundations to ensure I can have a long-lasting success
 - OOP actively obstructs you from modelling simple problems in their simplest form. I dread "modelling the real world" in Java or C#
 - F# is my current language of choice - I dislike much of the syntax but it sure is lightyears ahead of its peers when it comes to utility
 - If you want to learn programming, I recommend [Scala](https://scala-lang.org/) first because it's awesome and has a bit of everything
+
+## 💡 An unfinished project is just a project you haven't finished yet
