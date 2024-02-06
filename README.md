@@ -7,17 +7,26 @@
   
 </div>
 
-----
+## 👋 Hello, I am Percyqaz and I enjoy most things to do with code  
 
-I work professionally in C#, and to not *completely* lose my sanity, I use a completely different stack (F# and others) for my hobby projects. 
-Unfortunately you probably don't read or write F#, so you'll just have to take my word for it that I do a good job
+Most of my projects are personal tools or solutions I've created for myself  
+I like to release them to the public for the two-way benefits of feedback and bug reports for me while you get useful free software
 
-Take a look at some stuff I have made/maintain:
+I currently work professionally in C#, and I use mostly F# outside of work  
+I generally recommend using different stacks, IDEs, color schemes in and out of work to protect your sanity - I often pull 20-30 hours a week on hobby projects on top of my job
+
+Currently solidifying my foundations to ensure I can have a long-lasting successful career in software
+
+## ✨ Take a look at some cool things I maintain
 
 - ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/YAVSRG)
 - [Advent of code 2023](https://github.com/percyqaz/AdventOfCode_2023)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
-I'm eyeing up Rust as my language of choice for future projects due to it getting nearly everything right, but honestly F# 8 delivers on fixing some things that annoyed me the most about it and so F# remains the language I am happiest writing right now
-
-People often ask me for a starting point when it comes to learning programming languages - My honest recommendation is learning [Scala](https://scala-lang.org/) first because it's awesome
+## 🔥 Some of my hot takes
+- Rust is the best programming language hands down, IF
+  - You have no time limit
+  - You're OK doing half of your project from absolute scratch bare metal
+- OOP actively obstructs you from modelling simple problems in their simplest form. I dread "modelling the real world" in Java or C#
+- F# is my current language of choice - I dislike much of the syntax but it sure is lightyears ahead of its peers when it comes to utility
+- If you want to learn programming, I recommend [Scala](https://scala-lang.org/) first because it's awesome and has a bit of everything
