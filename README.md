@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Percyqaz and I enjoy most things code  
+## 👋 Hello, I'm Percyqaz and I enjoy most things code
 
 Most of my projects are personal tools or solutions I've created for myself  
 I like to release them to the public for the two-way benefits of feedback and bug reports for me while you get useful free software
@@ -8,10 +8,10 @@ I generally recommend using different stacks, IDEs, color schemes in and out of 
 
 Currently solidifying my foundations to ensure I have a long-lasting successful career in software
 
-## ✨ Take a look at some cool things I maintain
+## ✨ Take a look at some of my projects
 
 - ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/YAVSRG)
-- [Advent of code 2023](https://github.com/percyqaz/AdventOfCode_2023)
+- [Advent of code 2024](https://github.com/percyqaz/AdventOfCode_2024)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
 <div align=center>
