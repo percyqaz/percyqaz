@@ -22,7 +22,8 @@ Currently solidifying my foundations to ensure I have a long-lasting successful 
 </div>
 
 ## 🔥 Some of my hot takes
-- Scala is the only language I've looked at that appears not committed to a gimmick that slowly drags you down when using it for general purposes
+- Scala is the only language I've looked at that appears not committed to a gimmick that slowly drags you down
+  
   If you want to learn programming, I recommend [learning it](https://scala-lang.org/) second after the [popular](https://www.python.org/) [choices](https://www.w3schools.com/js/DEFAULT.asp) because it's awesome and has a bit of everything
 - F# is my current language of choice - I dislike much of the syntax but it sure is lightyears ahead of its peers when it comes to utility
 - I sense a lot of Zig in my future, when it's a bit more mature
