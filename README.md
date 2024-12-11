@@ -6,7 +6,7 @@ I like to release them to the public for the two-way benefits of feedback and bu
 I currently work professionally in C#, and I use mostly F# outside of work  
 I generally recommend using different stacks, IDEs, color schemes in and out of work to protect your sanity - I often pull 20-30 hours a week on hobby projects on top of my job
 
-Currently solidifying my foundations to ensure I can have a long-lasting successful career in software
+Currently solidifying my foundations to ensure I have a long-lasting successful career in software
 
 ## ✨ Take a look at some cool things I maintain
 
@@ -22,11 +22,9 @@ Currently solidifying my foundations to ensure I can have a long-lasting success
 </div>
 
 ## 🔥 Some of my hot takes
-- Rust is the best programming language hands down, IF
-  - You have no time limit
-  - You're OK doing half of your project from absolute scratch bare metal
-- OOP actively obstructs you from modelling simple problems in their simplest form. I dread "modelling the real world" in Java or C#
+- Scala is the only programming language I've looked at that appeared not to be committed to some gimmick that slowly drags you down as you use it for general purposes
+  If you want to learn programming, I recommend trying [Scala](https://scala-lang.org/) second after the popular choices because it's awesome and has a bit of everything
 - F# is my current language of choice - I dislike much of the syntax but it sure is lightyears ahead of its peers when it comes to utility
-- If you want to learn programming, I recommend [Scala](https://scala-lang.org/) first because it's awesome and has a bit of everything
+- I sense a lot of Zig in my future, when it's a bit more mature
 
 ## 💡 An unfinished project is just a project you haven't finished yet
