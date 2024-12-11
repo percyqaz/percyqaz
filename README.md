@@ -22,6 +22,8 @@ Currently solidifying my foundations to ensure I have a long-lasting successful 
 </div>
 
 ## 🔥 Some of my hot takes
+- The best way to optimise your program is to just do less stuff
+
 - Scala is the only language I've looked at that appears not committed to a gimmick that slowly drags you down
   
   If you want to learn programming, I recommend [learning it](https://scala-lang.org/) second after the [popular](https://www.python.org/) [choices](https://www.w3schools.com/js/DEFAULT.asp) because it's awesome and has a bit of everything
