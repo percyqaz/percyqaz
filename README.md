@@ -11,7 +11,7 @@ Currently solidifying my foundations to ensure I have a long-lasting successful 
 ## ✨ Take a look at some of my projects
 
 - ["Interlude", part of my 'Yet another vertically scrolling rhythm game' project](https://github.com/YAVSRG/YAVSRG)
-- [Advent of code 2024](https://github.com/percyqaz/AdventOfCode_2024)
+- [Advent of code](https://github.com/percyqaz/AdventOfCode)
 - ["Ultimate Inventory" Minecraft plugin](https://www.spigotmc.org/resources/ultimate-inventory-1-19.109298/)
 
 <div align=center>
