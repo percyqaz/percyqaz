@@ -4,9 +4,9 @@ Most of my projects are personal tools or solutions I've created for myself
 I like to release them to the public for the two-way benefits of feedback and bug reports for me while you get useful free software
 
 I currently work professionally in C#, and I use mostly F# outside of work  
-I generally recommend using different stacks, IDEs, color schemes in and out of work to protect your sanity - I often pull 20-30 hours a week on hobby projects on top of my job
+What you see here are my hobby projects, if you have PRs/issues I will normally get back to you on weekends, sorry if I don't
 
-Currently solidifying my foundations to ensure I have a long-lasting successful career in software
+Currently reviewing my foundations so I can maintain long-lasting career in software post-AI
 
 ## ✨ Take a look at some of my projects
 
