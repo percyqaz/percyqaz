@@ -22,12 +22,8 @@ Currently solidifying my foundations to ensure I have a long-lasting successful 
 </div>
 
 ## 🔥 Some of my hot takes
-- The best way to optimise your program is to just do less stuff
-
-- Scala is the only language I've looked at that appears not committed to a gimmick that slowly drags you down
-  
-  If you want to learn programming, I recommend [learning it](https://scala-lang.org/) second after the [popular](https://www.python.org/) [choices](https://www.w3schools.com/js/DEFAULT.asp) because it's awesome and has a bit of everything
-- F# is my current language of choice - I dislike much of the syntax but it sure is lightyears ahead of its peers when it comes to utility
-- I sense a lot of Zig in my future, when it's a bit more mature
+- F# has always been lightyears ahead of its peers and it's a shame it didn't get more popular (I blame its uncharismatic OCaml syntax)
+- [Scala](https://scala-lang.org/) is a great choice if you want to learn or explore programming because it won't railroad you into specific paradigms  
+  (I encourage you to try it, right after the [popular](https://www.python.org/) [choices](https://www.w3schools.com/js/DEFAULT.asp))
 
 ## 💡 An unfinished project is just a project you haven't finished yet
